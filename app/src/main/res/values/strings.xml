@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobile application 5th</string>
+    <string name="heading_1">Units Registered</string>
+    <string name="Unit_1">Mobile Application Development</string>
+    <string name="Unit_2">Project 1</string>
+    <string name="Unit_3">ICT Project Management</string>
+    <string name="Unit_4">Organizational Behaviour</string>
+
+</resources>

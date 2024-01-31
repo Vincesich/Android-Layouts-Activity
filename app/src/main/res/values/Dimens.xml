@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">12dp</dimen>
+    <dimen name="content_size">14dp</dimen>
+    <dimen name="image_size">2dp</dimen>
+
+</resources>
